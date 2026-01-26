@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 changes in development
 sike thats wrong number
-=======
-changes in development 
-i want this so i get this
->>>>>>> staging
